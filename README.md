@@ -427,7 +427,7 @@ Projects, coding exercises, and experiments built while learning programming con
 
 <p>
   <a href="https://github.com/byteAlok/Practical-Learning-Projects">
-    <img src="https://img.shields.io/badge/🧪_VIEW_MY_Practical Learning Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Practical Learning Projects"/>
+    <img src="https://img.shields.io/badge/🧪_VIEW_MY_Practical Learning Projects-187860?style=for-the-badge&logo=github&logoColor=white" alt="Practical Learning Projects"/>
   </a>
 </p>
 
@@ -437,7 +437,7 @@ My personal study record, including technical notes, screenshots, syllabuses, ro
 
 <p>
   <a href="https://github.com/byteAlok/Technical-Learning-Notes">
-    <img src="https://img.shields.io/badge/📝_VIEW_MY_Technical Learning Notes-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Technical Learning Notes"/>
+    <img src="https://img.shields.io/badge/📝_VIEW_MY_Technical Learning Notes-183278?style=for-the-badge&logo=github&logoColor=white" alt="Technical Learning Notes"/>
   </a>
 </p>
 
