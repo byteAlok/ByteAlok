@@ -4,18 +4,28 @@
 
 ### Full Stack Engineer
 
-**Building Web Applications · Backend Systems · Cloud Infrastructure**
+**🎨 Full Stack Development · 🛠️ Hands-on Projects · ☁️ Exploring Cloud & DevOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&center=true&vCenter=true&width=650&height=30&lines=ASP.NET+Core+%7C+C%23;React+%7C+Next.js;Node.js+%7C+Express.js;AWS+%7C+Terraform+%7C+Cloud+Infrastructure&color=58A6FF&color=A78BFA&color=3FB950&color=F0883E" alt="Technology Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=35&lines=ASP.NET+Core+%7C+C%23;React+%7C+Next.js;Node.js+%7C+Express.js;AWS+%7C+Terraform+%7C+Cloud+Infrastructure" alt="Technology Animation"/>
 
 <br>
-<a href="https://github.com/byteAlok">
-  <img src="https://img.shields.io/badge/GitHub-View_Profile-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-&nbsp;
-<a href="https://aloksde.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0969DA?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Website"/>
-</a>
+<p>
+  <a href="https://github.com/byteAlok">
+    <img src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&labelColor=181717&color=000000" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alokmauryaofficial">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3752" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://aloksde.com">
+    <img src="https://img.shields.io/badge/🌐_Current_Portfolio-A11A46?style=for-the-badge&labelColor=A11A46" alt="Current Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio.aloksde.com">
+    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=for-the-badge&labelColor=184A43" alt="Legacy Portfolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -147,7 +157,7 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services"/>
-  <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Terraform-44197D?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 <table>
@@ -328,7 +338,7 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 - ☁️ Additional AWS Services
 ---
 
-## 🚀 Featured Projects
+## 🚀 Full-Stack Projects | Live Deployments & Custom Domains
 
 ### 1. 🛠️ QuickService — Appliance Repair Booking & Management
 
@@ -347,10 +357,10 @@ ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Tailwind CSS
 
 <p>
   <a href="https://quickservice.aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-238636?style=for-the-badge" alt="Open QuickService Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-184A43?style=for-the-badge" alt="Open QuickService Live Demo"/>
   </a>
   <a href="https://github.com/byteAlok/QuickService">
-    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-0969DA?style=for-the-badge" alt="View QuickService Source Code"/>
+    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-183278?style=for-the-badge" alt="View QuickService Source Code"/>
   </a>
 </p>
 
@@ -371,10 +381,10 @@ ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap
 
 <p>
   <a href="https://codesync.aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-238636?style=for-the-badge" alt="Open CodeSync Live Demo"/>
+    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-184A43?style=for-the-badge" alt="Open CodeSync Live Demo"/>
   </a>
   <a href="https://github.com/byteAlok/CodeSync">
-    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-0969DA?style=for-the-badge" alt="View CodeSync Source Code"/>
+    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-183278?style=for-the-badge" alt="View CodeSync Source Code"/>
   </a>
 </p>
 
@@ -399,50 +409,35 @@ Next.js · React · Node.js · Express.js · MongoDB · REST APIs · JWT
 
 <p>
   <a href="https://aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-0969DA?style=for-the-badge" alt="Visit AlokSDE Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-183278?style=for-the-badge" alt="Visit AlokSDE Portfolio"/>
   </a>
 </p>
 
 *The portfolio is a work in progress. Some sections and features may still be incomplete.*
 
-### 4. 🔌 API Integration & CRUD Applications
-
-A collection of practical applications built to explore API integration and dynamic web development.
-
-- Third-party REST API integration
-- Asynchronous data fetching
-- JSON processing
-- Dynamic content rendering
-- CRUD operations
-- HTTP requests and API authentication
-
-**Technology Stack**
-
-ASP.NET MVC · ASP.NET Web API · HTML · CSS · JavaScript · PHP
-
 ---
 
-## 📚 Learning & Development
+## 📚 My Learning Journey
 
-I maintain separate repositories for practical implementation and technical learning resources.
+A record of my continuous learning, hands-on practice, and technical growth through practical implementations and documented study.
 
 ### 🧪 Practical Learning Projects
 
-Hands-on projects and experiments covering multiple programming languages and web development technologies.
+Projects, coding exercises, and experiments built while learning programming concepts and applying them to real-world development scenarios.
 
 <p>
   <a href="https://github.com/byteAlok/Practical-Learning-Projects">
-    <img src="https://img.shields.io/badge/📂_EXPLORE_PROJECTS-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore Practical Learning Projects"/>
+    <img src="https://img.shields.io/badge/🧪_VIEW_MY_Practical Learning Projects-238636?style=for-the-badge&logo=github&logoColor=white" alt="Practical Learning Projects"/>
   </a>
 </p>
 
-### 📖 Technical Learning Notes
+### 📝 Technical Learning Notes
 
-Technical notes, screenshots, syllabuses, roadmaps, and learning resources collected while studying programming and software development.
+My personal study record, including technical notes, screenshots, syllabuses, roadmaps, and other materials collected and documented throughout my learning process.
 
 <p>
   <a href="https://github.com/byteAlok/Technical-Learning-Notes">
-    <img src="https://img.shields.io/badge/📚_EXPLORE_LEARNING_NOTES-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Explore Technical Learning Notes"/>
+    <img src="https://img.shields.io/badge/📝_VIEW_MY_Technical Learning Notes-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Technical Learning Notes"/>
   </a>
 </p>
 
@@ -451,32 +446,12 @@ Technical notes, screenshots, syllabuses, roadmaps, and learning resources colle
 ## 🎓 Education
 
 - **Master of Computer Applications (MCA)** — Indian Institute of Information Technology (IIIT) Ranchi *(2025–2027, Expected)*
-- **Bachelor of Science (B.Sc.)** — Maharaja Suhel Dev State University, Azamgarh *(2025)*
+- **Bachelor of Science (B.Sc.)** — Maharaja Suhel Dev State University, Azamgarh, Uttar Pradesh *(2025)*
 - **O Level — Information Technology** — NIELIT *(2024)*
 
 ---
 
 ## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/byteAlok">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=byteAlok&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
-</a>
-
-<a href="https://github.com/byteAlok">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=byteAlok&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most Used Languages"
-  />
-</a>
-
-<br/><br/>
 
 <a href="https://github.com/byteAlok">
   <img
@@ -489,30 +464,28 @@ Technical notes, screenshots, syllabuses, roadmaps, and learning resources colle
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/byteAlok">
-  <img src="https://img.shields.io/badge/💻_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub Profile"/>
-</a>
+<h3>✨ Thanks for Stopping By!</h3>
 
-<a href="https://aloksde.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio Website"/>
-</a>
+<p>
+  <a href="https://github.com/byteAlok">
+    <img src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&labelColor=181717&color=000000" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/alokmauryaofficial">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3752" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://aloksde.com">
+    <img src="https://img.shields.io/badge/🌐_Current_Portfolio-A11A46?style=for-the-badge&labelColor=A11A46" alt="Current Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio.aloksde.com">
+    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=for-the-badge&labelColor=184A43" alt="Legacy Portfolio"/>
+  </a>
+</p>
 
-<a href="https://portfolio.aloksde.com">
-  <img src="https://img.shields.io/badge/🌐_Legacy_Portfolio-Visit_Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Legacy Portfolio Website"/>
-</a>
-
-<br/><br/>
-
-### 💻 Full Stack Engineer
-
-**Application Development · Cloud Infrastructure · Deployment**
-
-<br/>
-
-*Thanks for visiting my profile! ⭐*
+<p>🚀 Turning ideas into practical solutions.</p>
 
 </div>
