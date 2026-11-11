@@ -56,7 +56,7 @@
 </tr>
 <tr>
 <td><b>📊 Monitoring</b></td>
-<td>Node Exporter · Grafana · Prometheus · PagerDuty</td>
+<td>Node Exporter · Grafana · Prometheus · Alertmanager · PagerDuty</td>
 </tr>
 </table>
 
@@ -79,15 +79,19 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 ---
 
+
 ## 🛠️ Technical Skills
 
 <table>
-    <tr>
-    <th align="left">🎨 Frontend Development</th>
-    <th align="left">⚙️ Backend Development</th>
-  </tr>
 <tr>
-<td width="320" valign="top">
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">🎨 Frontend Development</th>
+</tr>
+<tr>
+<td>
 
 - 🌐 HTML5
 - 🎨 CSS3
@@ -98,7 +102,38 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 - 🌊 Tailwind CSS
 
 </td>
-<td width="320" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🗄️ Databases</th>
+</tr>
+<tr>
+<td>
+
+- 🟥 Microsoft SQL Server
+- ☁️ Azure SQL Database
+- 🐬 MySQL
+- 🍃 MongoDB
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">⚙️ Backend Development</th>
+</tr>
+<tr>
+<td>
 
 - 💜 C#
 - 🔷 ASP.NET Core MVC
@@ -109,28 +144,26 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 </td>
 </tr>
-    <tr>
-    <th align="left">🗄️ Databases</th>
-    <th align="left">🔧 Development Tools</th>
-  </tr>
-<tr>
-<td width="320" valign="top">
-
-- 🟥 Microsoft SQL Server
-- ☁️ Azure SQL Database
-- 🐬 MySQL
-- 🍃 MongoDB
+</table>
 
 <br/>
-</td>
-<td width="320" valign="top">
+
+<table>
+<tr>
+<th align="left">🔧 Development Tools</th>
+</tr>
+<tr>
+<td>
 
 - 🧡 Git
 - 🐙 GitHub
 - 🚀 Postman
 - 💻 Visual Studio & VS Code
 
-<br/>
+</td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>
@@ -139,26 +172,140 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 ## 🔐 Application Security
 
-- Authentication and authorization
-- JWT, session-based, and cookie-based authentication
-- Role-Based Access Control (RBAC)
-- Password hashing
-- CSRF protection and XSS mitigation
-- Rate limiting
-- Secure cookie configuration
-- File upload validation
-- Environment variables and secrets management
+- 🔑 Authentication & Authorization
+- 🎟️ JWT, Session-Based & Cookie-Based Authentication
+- 🛡️ Role-Based Access Control (RBAC)
+- 🔒 Password Hashing
+- 🚫 CSRF Protection & XSS Mitigation
+- 🚦 Rate Limiting
+- 🍪 Secure Cookie Configuration
+- 📁 File Upload Validation
+- 🔐 Environment Variables & Secrets Management
+
+---
+
+## ♾️ DevOps & Automation
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">🏗️ Infrastructure as Code</th>
+</tr>
+<tr>
+<td>
+
+- 🏗️ Terraform
+- ⚙️ Variables & Outputs
+- 📌 Locals
+- 📦 Terraform State
+- 🔧 Terraform Provisioners
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">📦 Containerization</th>
+</tr>
+<tr>
+<td>
+
+- 🐳 Docker
+- 🖼️ Docker Images & Containers
+- ⌨️ Docker Run Commands
+- 🔄 Container Lifecycle
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🔨 Build Tools & Automation</th>
+</tr>
+<tr>
+<td>
+
+- 🐘 Apache Maven
+- 📦 Dependency Management
+- 🔨 Build Automation
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">🔄 CI/CD & Automation</th>
+</tr>
+<tr>
+<td>
+
+- 🔧 Jenkins
+- 🐙 GitHub Actions
+- ⚙️ CI/CD Pipelines
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🐧 Linux & Shell</th>
+</tr>
+<tr>
+<td>
+
+- 🐧 Linux Commands
+- 📁 File & Permission Management
+- 🔑 SSH Authentication
+- ⚙️ Service Management
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🔍 Code Quality & Security</th>
+</tr>
+<tr>
+<td>
+
+- 🔍 SonarQube
+- 📊 Static Code Analysis
+- 🛡️ Code Quality Inspection
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ☁️ Cloud & Infrastructure
 
 ### 🟠 Amazon Web Services (AWS)
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Web Services"/>
-  <img src="https://img.shields.io/badge/Terraform-44197D?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-</p>
 
 <table>
 <tr>
@@ -205,22 +352,21 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 </tr>
 </table>
 
-<br/>
-
 <table>
 <tr>
-<th align="left">🌍 DNS & Content Delivery</th>
+<th align="left">📊 Monitoring & Observability</th>
 </tr>
 <tr>
 <td>
 
-- 🌐 Amazon Route 53
-- 🚀 Amazon CloudFront
-- 🔗 Custom Domain Configuration
+- ☁️ AWS CloudWatch
+- 📜 AWS CloudTrail
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 </td>
 <td width="50%" valign="top">
@@ -275,31 +421,14 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 <table>
 <tr>
-<th align="left">📊 Monitoring & Observability</th>
+<th align="left">🌍 DNS & Content Delivery</th>
 </tr>
 <tr>
 <td>
 
-- 📈 Node Exporter
-- 📊 Prometheus
-- 📉 Grafana
-- 🚨 PagerDuty
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<th align="left">🏗️ Infrastructure as Code</th>
-</tr>
-<tr>
-<td>
-
-- 🏗️ Terraform
-- ⚙️ Infrastructure as Code (IaC)
+- 🌐 Amazon Route 53
+- 🚀 Amazon CloudFront
+- 🔗 Custom Domain Configuration
 
 </td>
 </tr>
@@ -309,9 +438,15 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 </tr>
 </table>
 
+### 📚 Currently Exploring
+
+- 📦 Amazon ECS
+- ☸️ Amazon EKS
+- ☁️ Additional AWS Services
+
+
+<!-- <table>
 ### 🔷 Microsoft Azure
-
-<table>
   <tr>
     <th align="left">☁️ Cloud Services</th>
     <th align="left">🚀 Deployment</th>
@@ -329,13 +464,8 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 - 🔄 Basic CI/CD Concepts
 
 </tr>
-</table>
+</table> -->
 
-### 📚 Currently Exploring
-
-- 📦 Amazon ECS
-- ☸️ Amazon EKS
-- ☁️ Additional AWS Services
 ---
 
 ## 🚀 Full-Stack Projects | Live Deployments & Custom Domains
