@@ -6,7 +6,7 @@
 
 **🎨 Full Stack Development · 🛠️ Hands-on Projects · ☁️ Exploring Cloud & DevOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=75B8FF&center=true&vCenter=true&width=700&height=35&lines=ASP.NET+Core+%7C+C%23;React.js+%7C+Next.js;Amazon+Web+Services+%28AWS%29;DevOps+%7C+CI%2FCD+%7C+Automation" alt="Technology Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=65B8FF&center=true&vCenter=true&width=700&height=35&lines=ASP.NET+Core+%7C+C%23;React.js+%7C+Next.js;Amazon+Web+Services+%28AWS%29;DevOps+%7C+CI%2FCD+%7C+Automation" alt="Technology Animation"/>
 
 <br>
 <p>
