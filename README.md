@@ -6,25 +6,29 @@
 
 **🎨 Full Stack Development · 🛠️ Hands-on Projects · ☁️ Exploring Cloud & DevOps**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=35&lines=ASP.NET+Core+%7C+C%23;React+%7C+Next.js;Node.js+%7C+Express.js;AWS+%7C+Terraform+%7C+Cloud+Infrastructure" alt="Technology Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=75B8FF&center=true&vCenter=true&width=700&height=35&lines=ASP.NET+Core+%7C+C%23;React.js+%7C+Next.js;Amazon+Web+Services+%28AWS%29;DevOps+%7C+CI%2FCD+%7C+Automation" alt="Technology Animation"/>
 
 <br>
 <p>
   <a href="https://github.com/byteAlok">
-    <img src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&labelColor=181717&color=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alokmauryaofficial">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3752" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_Current_Portfolio-A11A46?style=for-the-badge&labelColor=A11A46" alt="Current Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-A11A46?style=flat" alt="Current Portfolio"/>
   </a>
   &nbsp;
   <a href="https://portfolio.aloksde.com">
-    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=for-the-badge&labelColor=184A43" alt="Legacy Portfolio"/>
+    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=flat" alt="Legacy Portfolio"/>
   </a>
+  <!-- &nbsp;
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_|_Azure_|_GCP-56318A?style=flat" alt="Cloud Platforms"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/♾️_DevOps-CI%2FCD_|_Automation-172A50?style=flat" alt="DevOps"/> -->
 </p>
 
 </div>
@@ -62,125 +66,23 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
-I'm **Alok Maurya**, a Full Stack Engineer interested in developing web applications, building backend systems, and understanding cloud infrastructure and deployment.
+I'm **Alok Maurya**, an aspiring **Cloud & DevOps Engineer** focused on cloud infrastructure, automation, deployment, and reliable application delivery.
 
-My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. Alongside application development, I study AWS services, cloud networking, monitoring, and Infrastructure as Code using Terraform.
+My primary focus is on **AWS, Linux, Terraform, Docker, Jenkins, and GitHub Actions**. I also have a Full Stack Development background with **C#, ASP.NET Core, Node.js, Express.js, React, Next.js, and SQL/NoSQL databases**, which helps me understand application architecture, backend systems, and deployment requirements.
 
-- 💻 Develop frontend interfaces and backend applications.
-- ⚙️ Build REST APIs and database-driven applications.
-- 🔐 Implement authentication, authorization, and security controls.
-- 🗄️ Work with SQL and NoSQL databases.
-- ☁️ Explore AWS cloud infrastructure and networking.
-- 🏗️ Learn Infrastructure as Code with Terraform.
-- 🚀 Work with application hosting, deployment, and basic CI/CD workflows.
-- 📚 Document technical concepts and build practical learning projects.
-
----
-
-
-## 🛠️ Technical Skills
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<th align="left">🎨 Frontend Development</th>
-</tr>
-<tr>
-<td>
-
-- 🌐 HTML5
-- 🎨 CSS3
-- 🟨 JavaScript
-- ⚛️ React
-- ▲ Next.js
-- 🅱️ Bootstrap
-- 🌊 Tailwind CSS
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<th align="left">🗄️ Databases</th>
-</tr>
-<tr>
-<td>
-
-- 🟥 Microsoft SQL Server
-- ☁️ Azure SQL Database
-- 🐬 MySQL
-- 🍃 MongoDB
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-</td>
-<td width="50%" valign="top">
-
-<table>
-<tr>
-<th align="left">⚙️ Backend Development</th>
-</tr>
-<tr>
-<td>
-
-- 💜 C#
-- 🔷 ASP.NET Core MVC
-- 🔷 ASP.NET Core Web API
-- 🧩 Entity Framework Core
-- 🟢 Node.js
-- ⚫ Express.js
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<th align="left">🔧 Development Tools</th>
-</tr>
-<tr>
-<td>
-
-- 🧡 Git
-- 🐙 GitHub
-- 🚀 Postman
-- 💻 Visual Studio & VS Code
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔐 Application Security
-
-- 🔑 Authentication & Authorization
-- 🎟️ JWT, Session-Based & Cookie-Based Authentication
-- 🛡️ Role-Based Access Control (RBAC)
-- 🔒 Password Hashing
-- 🚫 CSRF Protection & XSS Mitigation
-- 🚦 Rate Limiting
-- 🍪 Secure Cookie Configuration
-- 📁 File Upload Validation
-- 🔐 Environment Variables & Secrets Management
+- ☁️ Explore AWS cloud services, infrastructure, and networking.
+- 🏗️ Provision and manage cloud infrastructure using Terraform (IaC).
+- 🐳 Work with Docker and containerization.
+- 🔄 Build and automate CI/CD pipelines using Jenkins and GitHub Actions.
+- 🐧 Work with Linux, shell commands, SSH, and service management.
+- 📊 Explore monitoring, observability, and infrastructure performance.
+- 🔐 Understand application security, access management, and secrets handling.
+- ⚙️ Develop backend applications and REST APIs using ASP.NET Core.
+- 🌐 Understand frontend development and full-stack application architecture.
+- 📚 Build practical projects and document my technical learning journey.
 
 ---
 
@@ -468,108 +370,271 @@ My primary development stack includes **ASP.NET Core, C#, React, and Next.js**. 
 
 ---
 
+## 🛠️ Full Stack Development Skills & Technologies
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">🎨 Frontend Development</th>
+</tr>
+<tr>
+<td>
+
+- 🌐 HTML5
+- 🎨 CSS3
+- 🟨 JavaScript
+- ⚛️ React
+- ▲ Next.js
+- 🅱️ Bootstrap
+- 🌊 Tailwind CSS
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🗄️ Databases</th>
+</tr>
+<tr>
+<td>
+
+- 🟥 Microsoft SQL Server
+- ☁️ Azure SQL Database
+- 🐬 MySQL
+- 🍃 MongoDB
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<table>
+<tr>
+<th align="left">⚙️ Backend Development</th>
+</tr>
+<tr>
+<td>
+
+- 💜 C#
+- 🔷 ASP.NET Core MVC
+- 🔷 ASP.NET Core Web API
+- 🧩 Entity Framework Core
+- 🟢 Node.js
+- ⚫ Express.js
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<th align="left">🔧 Development Tools</th>
+</tr>
+<tr>
+<td>
+
+- 🧡 Git
+- 🐙 GitHub
+- 🚀 Postman
+- 💻 Visual Studio & VS Code
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+### 🔐 Application Security
+
+- 🔑 Authentication & Authorization
+- 🎟️ JWT, Session-Based & Cookie-Based Authentication
+- 🛡️ Role-Based Access Control (RBAC)
+- 🔒 Password Hashing
+- 🚫 CSRF Protection & XSS Mitigation
+- 🚦 Rate Limiting
+- 🍪 Secure Cookie Configuration
+- 📁 File Upload Validation
+- 🔐 Environment Variables & Secrets Management
+
+---
+
 ## 🚀 Full-Stack Projects | Live Deployments & Custom Domains
 
-### 1. 🛠️ QuickService — Appliance Repair Booking & Management
+1. 🛠️ ***QuickService — Appliance Repair Booking & Management***
 
-An independently deployed application for appliance repair bookings and service management.
+   > An independently deployed application for appliance repair bookings and service management.
 
-- Developed multi-step service booking workflows.
-- Built Admin and Staff management panels.
-- Implemented authentication and role-based authorization.
-- Added booking management and service status tracking.
-- Applied validation and application security practices.
-- Configured independent hosting and a custom domain.
+   **Key Features**
 
-**Technology Stack**
+   - Developed multi-step service booking workflows.
+   - Built Admin and Staff management panels.
+   - Implemented authentication and role-based authorization.
+   - Added booking management and service status tracking.
+   - Applied validation and application security practices.
+   - Configured independent hosting and a custom domain.
 
-ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Tailwind CSS
+   **Technology Stack**
 
-<p>
-  <a href="https://quickservice.aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-184A43?style=for-the-badge" alt="Open QuickService Live Demo"/>
-  </a>
-  <a href="https://github.com/byteAlok/QuickService">
-    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-183278?style=for-the-badge" alt="View QuickService Source Code"/>
-  </a>
-</p>
+   ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Tailwind CSS
 
-### 2. 📚 CodeSync — Full-Stack E-Learning Platform
+   <p>
+     <a href="https://quickservice.aloksde.com">
+       <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-12634F?style=flat&logoColor=white" alt="Live Demo"/>
+     </a>
+     <a href="https://github.com/byteAlok/QuickService">
+       <img src="https://img.shields.io/badge/Source_Code-172A50?style=flat&logo=github&logoColor=white" alt="QuickService Source Code"/>
+     </a>
+   </p>
 
-An e-learning application with course management, user dashboards, and administrative functionality.
+2. 📚 ***CodeSync — Full-Stack E-Learning Platform***
 
-- Implemented user registration and login.
-- Built separate User and Admin panels.
-- Developed course management and enrollment workflows.
-- Implemented role-based authorization.
-- Used Entity Framework Core for database operations.
-- Applied authentication and application security practices.
+   > An e-learning application with course management, user dashboards, and administrative functionality.
 
-**Technology Stack**
+   **Key Features**
 
-ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap
+   - Implemented user registration and login.
+   - Built separate User and Admin panels.
+   - Developed course management and enrollment workflows.
+   - Implemented role-based authorization.
+   - Used Entity Framework Core for database operations.
+   - Applied authentication and application security practices.
 
-<p>
-  <a href="https://codesync.aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_OPEN_LIVE_DEMO-184A43?style=for-the-badge" alt="Open CodeSync Live Demo"/>
-  </a>
-  <a href="https://github.com/byteAlok/CodeSync">
-    <img src="https://img.shields.io/badge/💻_VIEW_SOURCE_CODE-183278?style=for-the-badge" alt="View CodeSync Source Code"/>
-  </a>
-</p>
+   **Technology Stack**
 
-### 3. 🌐 AlokSDE — Personal Portfolio & Business Platform
+   ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap
 
-A personal portfolio and business platform currently under development.
+   <p>
+     <a href="https://codesync.aloksde.com">
+       <img src="https://img.shields.io/badge/🌐_Live_Demo-12634F?style=flat&logoColor=white" alt="CodeSync Live Demo"/>
+     </a>
+     <a href="https://github.com/byteAlok/CodeSync">
+       <img src="https://img.shields.io/badge/Source_Code-172A50?style=flat&logo=github&logoColor=white" alt="CodeSync Source Code"/>
+     </a>
+   </p>
 
-The project is intended to showcase projects, development services, and professional work through a dedicated website.
+3. 🌐 ***AlokSDE — Personal Portfolio & Business Platform***
 
-**Planned and developing capabilities include:**
+   > A personal portfolio and business platform currently under development, designed to showcase projects, development services, and professional work through a dedicated website.
 
-- Personal portfolio and project showcase
-- Development services and business information
-- Client-facing workflows and project requests
-- A platform designed to evolve as new projects and services are added
+   **Planned & Developing Capabilities**
 
-**Technology Stack**
+   - Personal portfolio and project showcase.
+   - Development services and business information.
+   - Client-facing workflows and project requests.
+   - A platform designed to evolve as new projects and services are added.
 
-Next.js · React · Node.js · Express.js · MongoDB · REST APIs · JWT
+   **Technology Stack**
 
-**Project Status:** 🚧 In Development
+   Next.js · React · Node.js · Express.js · MongoDB · REST APIs · JWT
 
-<p>
-  <a href="https://aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_VISIT_PORTFOLIO-183278?style=for-the-badge" alt="Visit AlokSDE Portfolio"/>
-  </a>
-</p>
+   **Project Status:** 🚧 In Development
 
-*The portfolio is a work in progress. Some sections and features may still be incomplete.*
+   <p>
+     <a href="https://aloksde.com">
+       <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-172A50?style=flat&logoColor=white" alt="Visit AlokSDE Portfolio"/>
+     </a>
+   </p>
+
+   *The portfolio is a work in progress. Some sections and features may still be incomplete.*
 
 ---
 
 ## 📚 My Learning Journey
 
-A record of my continuous learning, hands-on practice, and technical growth through practical implementations and documented study.
+A record of my continuous learning, hands-on practice, and technical growth through structured courses, independent study, practical implementations, and technical documentation.
 
-### 🧪 Practical Learning Projects
+### ☁️ Multi-Cloud & DevOps with AI
 
-Projects, coding exercises, and experiments built while learning programming concepts and applying them to real-world development scenarios.
+Currently pursuing structured learning in Multi-Cloud and DevOps, focusing on cloud infrastructure, automation, Infrastructure as Code, CI/CD pipelines, Linux administration, and DevOps tools. The following repositories document my practical exercises, configurations, commands, and visual learning notes.
 
-<p>
-  <a href="https://github.com/byteAlok/Practical-Learning-Projects">
-    <img src="https://img.shields.io/badge/🧪_VIEW_MY_Practical Learning Projects-187860?style=for-the-badge&logo=github&logoColor=white" alt="Practical Learning Projects"/>
-  </a>
-</p>
+- #### 🔄 CI/CD Series
+    > Exploring CI/CD concepts and automation workflows using Jenkins, GitHub Actions, Azure DevOps, and GitOps. Includes pipeline configurations, YAML workflows, automation scripts, and hands-on implementation examples.
 
-### 📝 Technical Learning Notes
+    <p>
+      <a href="https://github.com/byteAlok/CICD-Series">
+        <img src="https://img.shields.io/badge/Explore_CI%2FCD_Series-207A30?style=flat&logo=github&logoColor=white" alt="Explore CI/CD Series"/>
+      </a>
+    </p>
 
-My personal study record, including technical notes, screenshots, syllabuses, roadmaps, and other materials collected and documented throughout my learning process.
+- #### 🏗️ Terraform using AWS
 
-<p>
-  <a href="https://github.com/byteAlok/Technical-Learning-Notes">
-    <img src="https://img.shields.io/badge/📝_VIEW_MY_Technical Learning Notes-183278?style=for-the-badge&logo=github&logoColor=white" alt="Technical Learning Notes"/>
-  </a>
-</p>
+    > Learning Infrastructure as Code with Terraform and AWS using HCL. Practicing infrastructure provisioning and automation for services such as EC2, S3, RDS, VPC, and IAM.
+
+    <p>
+      <a href="https://github.com/byteAlok/Terraform-AWS">
+        <img src="https://img.shields.io/badge/Explore_Terraform_AWS-3A176B?style=flat&logo=github&logoColor=white" alt="Explore Terraform AWS"/>  
+      </a>
+    </p>
+
+- #### ⚙️ DevOps Tools & Installation Commands 
+
+    > A practical collection of installation commands and setup guides for Cloud, DevOps, and Infrastructure tools across different operating systems. Includes configurations, examples, and verification commands.
+
+    <p>
+      <a href="https://github.com/byteAlok/DevOps-Tools-Installation-Commands">
+        <img src="https://img.shields.io/badge/Explore_DevOps_Tools-12634F?style=flat&logo=github&logoColor=white" alt="Explore DevOps Tools"/>  
+      </a>
+    </p>
+
+- #### 🐧 System Command Handbook
+
+    > Maintaining a command reference for Linux, Shell, Git, Docker, Kubernetes, and SSH. Includes essential commands, practical examples, system administration references, and a Linux Command Handbook.
+
+    <p>
+      <a href="https://github.com/byteAlok/System-Command-Handbook">
+        <img src="https://img.shields.io/badge/Explore_System_Command_Handbook-172A50?style=flat&logo=github&logoColor=white" alt="Explore System Command Handbook"/>  
+      </a>
+    </p>
+
+- #### 🌐 AWS, Azure & GCP – Visual Notes, Comparisons & Learning Resources
+
+    > Visual notes and quick-reference guides covering AWS, Microsoft Azure, and Google Cloud (GCP). Includes cloud networking, compute, storage, security, monitoring, DevOps concepts, architecture diagrams, and service comparisons.
+
+    <p>
+      <a href="https://github.com/byteAlok/AWS-Azure-GCP-Image-Notes">
+        <img src="https://img.shields.io/badge/Explore_Multi_Cloud_Visual_Notes-56318A?style=flat&logo=github&logoColor=white" alt="Explore Multi-Cloud Notes"/>  
+      </a>
+    </p>
+
+---
+
+### 💻 Self-Learning & Personal Projects
+
+My self-directed Full Stack Development journey, built through independent study, AI-assisted learning, Google Search, official documentation, and hands-on project development.
+
+- #### 🧪 Practical Learning Projects
+
+    > Projects, coding exercises, and experiments developed through independent learning and hands-on practice.
+
+    <p>
+      <a href="https://github.com/byteAlok/Practical-Learning-Projects">
+        <img src="https://img.shields.io/badge/Explore_Practical_Projects-12634F?style=flat&logo=github&logoColor=white" alt="Practical Learning Projects"/>  
+      </a>
+    </p>
+
+- #### 📝 Technical Learning Notes
+
+    > My personal study records, including technical notes, screenshots, syllabuses, roadmaps, and other materials documented throughout my learning journey.
+
+    <p>
+      <a href="https://github.com/byteAlok/Technical-Learning-Notes">
+        <img src="https://img.shields.io/badge/Explore_Technical_Notes-172A50?style=flat&logo=github&logoColor=white" alt="Technical Learning Notes"/>  
+      </a>
+    </p>
 
 ---
 
@@ -600,20 +665,24 @@ My personal study record, including technical notes, screenshots, syllabuses, ro
 
 <p>
   <a href="https://github.com/byteAlok">
-    <img src="https://img.shields.io/badge/💻_GitHub-000000?style=for-the-badge&labelColor=181717&color=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/alokmauryaofficial">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D3752" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-1D3752?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://aloksde.com">
-    <img src="https://img.shields.io/badge/🌐_Current_Portfolio-A11A46?style=for-the-badge&labelColor=A11A46" alt="Current Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-A11A46?style=flat" alt="Current Portfolio"/>
   </a>
   &nbsp;
   <a href="https://portfolio.aloksde.com">
-    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=for-the-badge&labelColor=184A43" alt="Legacy Portfolio"/>
+    <img src="https://img.shields.io/badge/🗂️_Legacy_Portfolio-184A43?style=flat" alt="Legacy Portfolio"/>
   </a>
+  <!-- &nbsp;
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_|_Azure_|_GCP-56318A?style=flat" alt="Cloud Platforms"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/♾️_DevOps-CI%2FCD_|_Automation-172A50?style=flat" alt="DevOps"/> -->
 </p>
 
 <p>🚀 Turning ideas into practical solutions.</p>
